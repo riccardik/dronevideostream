@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\rick\\Desktop\\android-videostreamdecodingsample\\libs\\OpenCV\\src\\org\\opencv\\engine\\OpenCVEngineInterface.aidl
+ * Original file: C:\\Users\\rick\\Desktop\\dronevideostream\\codice\\android-videostreamdecodingsample\\libs\\OpenCV\\src\\org\\opencv\\engine\\OpenCVEngineInterface.aidl
  */
 package org.opencv.engine;
 /**

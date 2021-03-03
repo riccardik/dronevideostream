@@ -1,42 +1,23 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\rick\\Desktop\\android-videostreamdecodingsample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\rick\\Desktop\\dronevideostream\\codice\\android-videostreamdecodingsample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\rick\\Desktop\\android-videostreamdecodingsample\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\rick\\Desktop\\dronevideostream\\codice\\android-videostreamdecodingsample\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "368"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,149",
+                        "endColumns": "57,55",
+                        "endOffsets": "143,200"
                     },
                     "to": {
-                        "startLines": "463",
-                        "startColumns": "4",
-                        "startOffsets": "56556",
-                        "endLines": "468",
-                        "endColumns": "12",
-                        "endOffsets": "56870"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\rick\\Desktop\\android-videostreamdecodingsample\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,7,6,2,3,8,5",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "153,288,244,55,102,333,199",
-                        "endColumns": "45,44,43,46,50,44,44",
-                        "endOffsets": "194,328,283,97,148,373,239"
-                    },
-                    "to": {
-                        "startLines": "32,33,34,35,36,37,79",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "2186,2232,2277,2321,2368,2419,5246",
-                        "endColumns": "45,44,43,46,50,44,44",
-                        "endOffsets": "2227,2272,2316,2363,2414,2459,5286"
+                        "startLines": "191,192",
+                        "startColumns": "4,4",
+                        "startOffsets": "26974,27032",
+                        "endColumns": "57,55",
+                        "endOffsets": "27027,27083"
                     }
                 },
                 {
@@ -59,24 +40,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\rick\\Desktop\\android-videostreamdecodingsample\\src\\main\\res\\values\\dimens.xml",
+                    "source": "C:\\Users\\rick\\Desktop\\dronevideostream\\codice\\android-videostreamdecodingsample\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "88,146",
-                        "endColumns": "57,55",
-                        "endOffsets": "141,197"
+                        "startLines": "1,4,5,3,6,2",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "17,231,306,162,375,84",
+                        "endColumns": "65,73,67,67,62,76",
+                        "endOffsets": "78,300,369,225,433,156"
                     },
                     "to": {
-                        "startLines": "191,192",
-                        "startColumns": "4,4",
-                        "startOffsets": "26974,27032",
-                        "endColumns": "57,55",
-                        "endOffsets": "27027,27083"
+                        "startLines": "235,236,446,447,448,450",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "29848,29914,55521,55589,55657,55791",
+                        "endColumns": "65,73,67,67,62,76",
+                        "endOffsets": "29909,29983,55584,55652,55715,55863"
                     }
                 },
                 {
-                    "source": "C:\\Users\\rick\\Desktop\\android-videostreamdecodingsample\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "source": "C:\\Users\\rick\\Desktop\\dronevideostream\\codice\\android-videostreamdecodingsample\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,234,237",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -95,20 +76,39 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\rick\\Desktop\\android-videostreamdecodingsample\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\rick\\Desktop\\dronevideostream\\codice\\android-videostreamdecodingsample\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "1,4,5,3,6,2",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "16,227,301,159,369,82",
-                        "endColumns": "65,73,67,67,62,76",
-                        "endOffsets": "77,296,364,222,427,154"
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "376"
                     },
                     "to": {
-                        "startLines": "235,236,446,447,448,450",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "29848,29914,55521,55589,55657,55791",
-                        "endColumns": "65,73,67,67,62,76",
-                        "endOffsets": "29909,29983,55584,55652,55715,55863"
+                        "startLines": "463",
+                        "startColumns": "4",
+                        "startOffsets": "56556",
+                        "endLines": "468",
+                        "endColumns": "12",
+                        "endOffsets": "56870"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\rick\\Desktop\\dronevideostream\\codice\\android-videostreamdecodingsample\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,7,6,2,3,8,5",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "157,295,250,57,105,341,204",
+                        "endColumns": "45,44,43,46,50,44,44",
+                        "endOffsets": "198,335,289,99,151,381,244"
+                    },
+                    "to": {
+                        "startLines": "32,33,34,35,36,37,79",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2186,2232,2277,2321,2368,2419,5246",
+                        "endColumns": "45,44,43,46,50,44,44",
+                        "endOffsets": "2227,2272,2316,2363,2414,2459,5286"
                     }
                 }
             ]

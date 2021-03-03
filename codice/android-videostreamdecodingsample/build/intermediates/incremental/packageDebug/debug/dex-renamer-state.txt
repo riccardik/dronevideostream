@@ -1,4 +1,4 @@
-#Wed Mar 03 21:29:00 CET 2021
-base.0=C\:\\Users\\rick\\Desktop\\android-videostreamdecodingsample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Wed Mar 03 22:56:38 CET 2021
+base.0=C\:\\Users\\rick\\Desktop\\dronevideostream\\codice\\android-videostreamdecodingsample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
